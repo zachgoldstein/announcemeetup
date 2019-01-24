@@ -1,0 +1,8 @@
+title: 'Polyhack Slack'
+type: 'slack'
+channel_id: 'XXXXXXXXX'
+token: 'xoxp-XXXXXXXXXXXXXXXXXXXXXXXXXX'
+do_pin: true
+message: |
+  Hi all! Polyhack is happening on Feb 6th, https://www.meetup.com/polyhackTO/events/257350419/.
+  Looking forward to seeing everybody out!

@@ -1,0 +1,9 @@
+title: 'Polyhack Twitter'
+type: 'twitter'
+consumer_key: 'XXXXXX'
+consumer_secret: 'XXXXXX'
+access_key: 'XXXXXX'
+access_secret: 'XXXXXX'
+message: |
+  Hi all! Polyhack is happening on Feb 6th, https://www.meetup.com/polyhackTO/events/257350419/.
+  Looking forward to seeing everybody out!
